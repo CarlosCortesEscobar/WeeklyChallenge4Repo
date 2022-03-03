@@ -1,0 +1,15 @@
+C:\Users\corte\Desktop\FoodTruck\obj\Debug\net6.0\FoodTruck.csproj.AssemblyReference.cache
+C:\Users\corte\Desktop\FoodTruck\obj\Debug\net6.0\FoodTruck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corte\Desktop\FoodTruck\obj\Debug\net6.0\FoodTruck.AssemblyInfoInputs.cache
+C:\Users\corte\Desktop\FoodTruck\obj\Debug\net6.0\FoodTruck.AssemblyInfo.cs
+C:\Users\corte\Desktop\FoodTruck\obj\Debug\net6.0\FoodTruck.csproj.CoreCompileInputs.cache
+C:\Users\corte\Desktop\FoodTruck\bin\Debug\net6.0\FoodTruck.exe
+C:\Users\corte\Desktop\FoodTruck\bin\Debug\net6.0\FoodTruck.deps.json
+C:\Users\corte\Desktop\FoodTruck\bin\Debug\net6.0\FoodTruck.runtimeconfig.json
+C:\Users\corte\Desktop\FoodTruck\bin\Debug\net6.0\FoodTruck.dll
+C:\Users\corte\Desktop\FoodTruck\bin\Debug\net6.0\ref\FoodTruck.dll
+C:\Users\corte\Desktop\FoodTruck\bin\Debug\net6.0\FoodTruck.pdb
+C:\Users\corte\Desktop\FoodTruck\obj\Debug\net6.0\FoodTruck.dll
+C:\Users\corte\Desktop\FoodTruck\obj\Debug\net6.0\ref\FoodTruck.dll
+C:\Users\corte\Desktop\FoodTruck\obj\Debug\net6.0\FoodTruck.pdb
+C:\Users\corte\Desktop\FoodTruck\obj\Debug\net6.0\FoodTruck.genruntimeconfig.cache

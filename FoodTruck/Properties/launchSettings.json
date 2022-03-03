@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "FoodTruck": {
+      "commandName": "Project",
+      "commandLineArgs": "5 2.5 3 20"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "environmentVariables": {},
+      "distributionName": ""
+    }
+  }
+}

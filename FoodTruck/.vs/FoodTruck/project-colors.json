@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "df80cadf-9de7-44f9-b991-dd83eece055d": {
+      "ProjectGuid": "df80cadf-9de7-44f9-b991-dd83eece055d",
+      "DisplayName": "FoodTruck",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
